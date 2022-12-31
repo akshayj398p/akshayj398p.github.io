@@ -5,25 +5,15 @@
 
 # Systems and Standards
 - skill: Systems and standards.
-  description: QNX, QNX Hypervisor Configuration, ESXi Hypervisor, Linux and QNX device drivers,
-  Operating systems-Linux, ARM implementation bootloader, Firmware, SecureBoot and Bootloaders,
-  Virtualisation, Secured Bootloader, Hypervisors Type 1 & 2, Bootloader Customization, Linux,
-  Bootloader Design, Secure Booting, secure flashing and memory layout, Embedded Systems,
-  FreeRTOS, RTOS, AUTOSAR, MISRA, UDS ISO 14229, Classic AUTOSAR, Scrum/Agile, V-Model, Bootloader,
-  Automatization standards ISO 26262, Misra C Autosar, Device Driver Programming, QNX Environment,
-  QNX Hypervisor, QNX Momentics.
+  description: QNX, QNX Hypervisor Configuration, ESXi Hypervisor, Linux and QNX device drivers, Operating systems-Linux, ARM implementation bootloader, Firmware, SecureBoot and Bootloaders, Virtualisation, Secured Bootloader, Hypervisors Type 1 & 2, Bootloader Customization, Linux, Bootloader Design, Secure Booting, secure flashing and memory layout, Embedded Systems, FreeRTOS, RTOS, AUTOSAR, MISRA, UDS ISO 14229, Classic AUTOSAR, Scrum/Agile, V-Model, Bootloader, Automatization standards ISO 26262, Misra C Autosar, Device Driver Programming, QNX Environment, QNX Hypervisor, QNX Momentics.
 
 # Tools
 - skill: Tools
-  description: Git, Jenkins, Lauterbach(Trace32), Rational DOORS, Jira, Confluence, Vector CANoe,
-  GIT(Github), Vector CANanalyzer, MKS Integrity, CAPL scripting, Disassembler objdump gdb,
-  Debugging tools (winIdea and iSystem, UDE), Coverity, Misra, Klockworks(Static Analysis),
-  perforce, svn, Makefile, CMake
+  description: Git, Jenkins, Lauterbach(Trace32), Rational DOORS, Jira, Confluence, Vector CANoe, GIT(Github), Vector CANanalyzer, MKS Integrity, CAPL scripting, Disassembler objdump gdb, Debugging tools (winIdea and iSystem, UDE), Coverity, Misra, Klockworks(Static Analysis), perforce, svn, Makefile, CMake
 
 # Controller and Architecture
 - skill: Controller and Architecture
-  description: ARM, ARM - Cortex M, SoC, FPGA, ASIC, Qualcomm Snapdragon, Raspberry Pi, STM32,
-  8051, Renesas RH850 Family
+  description: ARM, ARM - Cortex M, SoC, FPGA, ASIC, Qualcomm Snapdragon, Raspberry Pi, STM32, 8051, Renesas RH850 Family
 
 # Protocols
 - skill: Protocols
