@@ -21,10 +21,7 @@
 - company: Robert Bosch Engineering And Business Solutions
   position: Developer (Software)
   duration:   Feb, 2016  &mdash; Jun, 2017
-  summary: I was responsible for requirement gathering, development and testing of Unified Diagnostic Specification
-(UDS) ISO -14229, AUTOSAR compliant automotive bootloader.<ul class="resume-item-list"><li>Realizing and maintaining customer requirements in DOORS.</li><li>Developed software as per MISRA guidelines.</li><li>Supported bootloader advanced features such as CAN FD protocol, Over-the-Air Flash Programming,
-Wake-up via Partial Networking, Compression.</li><li>Supported bootloader basic features such as CRC-32 algorithm, Backdoor feature, Heartbeat
-message transmission, AES-256 security verification.</li></ul>
+  summary: I was responsible for requirement gathering, development and testing of Unified Diagnostic Specification (UDS) ISO -14229, AUTOSAR compliant automotive bootloader.<ul class="resume-item-list"><li>Realizing and maintaining customer requirements in DOORS.</li><li>Developed software as per MISRA guidelines.</li><li>Supported bootloader advanced features such as CAN FD protocol, Over-the-Air Flash Programming, Wake-up via Partial Networking, Compression.</li><li>Supported bootloader basic features such as CRC-32 algorithm, Backdoor feature, Heartbeat message transmission, AES-256 security verification.</li></ul>
 
 # Associate Software Developer - Accenture Services Private Limited
 - company: Accenture Services Private Limited
