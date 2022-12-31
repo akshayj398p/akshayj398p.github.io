@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Akshay Gupta"
-resume_title:                   "Member of Technical Staff 3 @ VMware"
+resume_title:                   "Embedded Sofware Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "akshay.j398p@gmail.com"

@@ -1,19 +1,72 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Member of Technical Staff 3 - VMWare
+- company: VMware Incorporated (Bengaluru)
+  position: Member Of Technical Staff 3
+  duration: May, 2021 &mdash; Present
+  summary: I am part of the Monitor (Hypervisor) team at VMware.
+  <ul class="resume-item-list">
+  <li>Responsible for development and port of FrobOS for ARMv8 - A chipsets.</li>
+  <li>Responsible for running FrobOS on AWS Graviton 2 as bare-metal images.</li>
+  <li>Implementation of Backdoor APIs to install traces in Hypervisor.</li>
+  <li>Implemented APIs to switch from EL1 to EL0 and vice versa.</li>
+  <li>Added support for 16K page granule size in memory management layer of FrobOS.</li>
+  <li>Created tests to verify system registers emulation by Hypervisor.</li>
+  <li>Created tests to verify the page table attributes handling by Hypervisor.</li>
+  </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Senior Design Engineer - Software - NXP
+- company: NXP Semiconductor Private Limited
+  position: Senior Design Engineer (Software)
+  duration:  Sept, 2019 &mdash; May, 2021
+  summary: I was part of the Secure Car Access (SCA) firmware team.
+  <ul class="resume-item-list">
+  <li>Delivered Secure Boot Extension for Ranger4 ICs (ARMv8 - M architecture), Ultra Wideband based key access chips.</li>
+  <li>Delivered Deep Power Down and High Power Down feature in Software Updater (SWUP) running in Ranger4 IC firmware.</li>
+  <li>Designed and developed SCA Test Framework.</li>
+  <li>Added integration and unit tests using SCA Test Framework.</li>
+  <li>Developed software compliant to various automotive standards like MISRA etc.</li>
+  <li>Responsible for creation and maintenance of Jenkins Pipeline.</li>
+  <li>Developed sequence diagrams for the Firmware implemened.</li>
+  </ul>
 
+# Engineer - Qualcomm
+- company: Qualcomm Technologies Private Limited 
+  position: Dev. Engineer - Software (QNX Platform)
+  duration:   Jul, 2017  &mdash; Aug, 2019
+  summary: I was part of QNX Platform team for Automotive Qualcomm Chipsets (based on ARMv8 - A architecture ).
+  <ul class="resume-item-list">
+  <li>Responsible for bring-up and development of core BSP drivers.</li>
+  <li>Responsible for QNX security policy sub-feature lead.</li>
+  <li>Responsible for design and development of QNX platform utilities.</li>
+  <li>Led the consultant team working on security policy.</li>
+  <li>Implemented Mandatory Access Control (MAC) for QNX resource manager (Device Drivers in QNX).</li>
+  <li>Responsible for limiting access between host and virtual machine, virtual machine and virtual machine.</li>
+  <li>Automated the process of generation, review, test of Security Policy using Python.</li>
+  <li>Delivered bring-up of the Clock and PMIC driver.</li>
+  <li>Developed sequence and class diagrams for the software written.</li>
+  <li>Designed power manager driver for Low Power Mode feature.</li>
+  <li>Designed and developed heartbeat utility for capturing information about system resources such as CPU, memory and temperature of the SoC.</li>
+  <li>Redesigned the existing showmem utility to split it into library & API. Library was reused for heartbeat tool.</li>
+  </ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Developer - Bosch
+- company: Robert Bosch Engineering And Business Solutions
+  position: Developer (Software)
+  duration:   Feb, 2016  &mdash; Jun, 2017
+  summary: I was responsible for requirement gathering, development and testing of Unified Diagnostic Specification
+(UDS) ISO -14229, AUTOSAR compliant automotive bootloader.
+  <ul class="resume-item-list">
+  <li>Realizing and maintaining customer requirements in DOORS.</li>
+  <li>Developed software as per MISRA guidelines.</li>
+  <li>Supported bootloader advanced features such as CAN FD protocol, Over-the-Air Flash Programming,
+Wake-up via Partial Networking, Compression.</li>
+  <li>Supported bootloader basic features such as CRC-32 algorithm, Backdoor feature, Heartbeat
+message transmission, AES-256 security verification.</li>
+  </ul>
+
+# Associate Software Developer - Accenture Services Private Limited
+- company: Accenture Services Private Limited
+  position: Associate Software Developer
+  duration:   Aug, 2014  &mdash; Jul, 2015
+  summary: I was responsible for providing support across SAP FICO/Expense/HR domains.
+  
